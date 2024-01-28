@@ -1,0 +1,18 @@
+body {
+	margin: 0px;
+}
+
+#uc {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100vw;
+	height: 100vh;
+	position: relative;
+	background: linear-gradient(#222 0%, #333 100%);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: whitesmoke;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 30px;
+}
